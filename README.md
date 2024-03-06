@@ -29,6 +29,6 @@ Martingala: Una estrategia de duplicación de apuestas.
 Inverse Labouchere: Una estrategia basada en una secuencia de números.
 Puedes seleccionar la técnica y definir el monto de la apuesta usando las siguientes opciones:
 
--m - <dinero>: Especifica el monto de dinero para apostar.
--t - <técnica>: Selecciona la técnica de apuestas (martingala / inverseLabrouchere).
--h - Muestra este panel de ayuda.
+- m - <dinero>: Especifica el monto de dinero para apostar.
+- t - <técnica>: Selecciona la técnica de apuestas (martingala / inverseLabrouchere).
+- h - Muestra este panel de ayuda.
